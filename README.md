@@ -1,7 +1,7 @@
 # FoodHub Order Analysis
 
 **Program:** Code4Food Security Fellowship — Blossom Academy × WFP Ghana × KOICA  
-**Author:** Justina Ama Enyonam Acolatse  
+**Author:** Justina Grace Attah Akweh
 **Tools:** Python · pandas · numpy · matplotlib · seaborn
 
 ---
@@ -153,4 +153,4 @@ Restaurants qualifying for the promotional offer (more than 50 rated orders **an
 
 Justina is a Ghana-based data analyst with a background in Natural Resource Management and a career trajectory focused on food security and climate data. This project was completed as part of the Code4Food Security Fellowship at Blossom Academy, a fully funded programme in partnership with WFP Ghana and KOICA.
 
-Connect on [LinkedIn](https://www.linkedin.com) | View more projects on [GitHub](https://github.com)
+
